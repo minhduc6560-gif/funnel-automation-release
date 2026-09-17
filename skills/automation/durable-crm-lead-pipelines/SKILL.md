@@ -11,7 +11,7 @@ metadata:
     - workers
     - idempotency
     related_skills:
-    - crm-data-integration
+    - ldg-ket-noi-data-crm
 author: Minh Duc (minhduc6560-gif), Hermes Agent
 license: MIT
 platforms:

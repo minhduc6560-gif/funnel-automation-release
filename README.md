@@ -4,8 +4,8 @@ Builds portable CRM, webhook, and funnel automations.
 
 ## Included skills
 
-- `crm-workflow-automation`
-- `crm-data-integration`
+- `ghl-workflow-automation`
+- `ldg-ket-noi-data-crm`
 - `durable-crm-lead-pipelines`
 - `payment-webhook-integrations`
 - `wordpress-mcp-integration`

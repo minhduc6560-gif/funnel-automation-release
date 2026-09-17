@@ -1,5 +1,5 @@
 ---
-name: crm-workflow-automation
+name: ghl-workflow-automation
 description: Inspect and edit CRM workflows with persisted checks.
 version: 1.0.0
 platforms:
@@ -17,7 +17,7 @@ metadata:
     - forms
     - email
     related_skills:
-    - crm-data-integration
+    - ldg-ket-noi-data-crm
 author: Minh Duc (minhduc6560-gif), Hermes Agent
 license: MIT
 ---

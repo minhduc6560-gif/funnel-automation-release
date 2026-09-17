@@ -1,5 +1,5 @@
 ---
-name: crm-data-integration
+name: ldg-ket-noi-data-crm
 description: Connect HTML forms to CRM external tracking.
 version: 0.1.0
 author: Minh Duc (minhduc6560-gif), Hermes Agent
@@ -17,7 +17,7 @@ metadata:
     - external-tracking
     - forms
     related_skills:
-    - crm-workflow-automation
+    - ghl-workflow-automation
     - durable-crm-lead-pipelines
 ---
 
