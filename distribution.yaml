@@ -1,5 +1,5 @@
-name: funnel-automation-release
-version: 1.0.0
+name: workflow-automation
+version: 1.0.1
 description: "Builds portable CRM, webhook, and funnel automations."
 hermes_requires: ">=0.13.0"
 author: "Minh Duc (minhduc6560-gif), Hermes Agent"

@@ -1,4 +1,4 @@
-# funnel-automation-release
+# Workflow Automation
 
 Builds portable CRM, webhook, and funnel automations.
 
@@ -15,5 +15,7 @@ Builds portable CRM, webhook, and funnel automations.
 ```bash
 hermes profile install github.com/minhduc6560-gif/funnel-automation-release --alias
 ```
+
+The profile is installed automatically as `workflow-automation`; no `--name` option is needed.
 
 The distribution excludes credentials, memories, sessions, logs, browser profiles, and project data. Bring your own model/provider configuration and integration credentials.
