@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "wordpress": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@automattic/mcp-wordpress-remote@0.4.0"
+      ],
+      "env": {
+        "WP_API_URL": "${WORDPRESS_MCP_URL}",
+        "WP_API_USERNAME": "${WORDPRESS_MCP_USERNAME}",
+        "WP_API_PASSWORD": "${WORDPRESS_MCP_PASSWORD}",
+        "OAUTH_ENABLED": "false"
+      },
+      "timeout": 120,
+      "connect_timeout": 60,
+      "sampling": {
+        "enabled": false
+      }
+    }
+  }
+}
